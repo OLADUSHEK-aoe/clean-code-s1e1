@@ -35,7 +35,7 @@
 .main-page__task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .main-page__task-row-wrapper {
@@ -130,7 +130,7 @@ input {
 }
 
 .li__text {
-  width: 226px
+  width: 226px;
 }
 
 .button_delete img {
@@ -151,12 +151,12 @@ input {
 
 /* Edit Task */
 .li input[type=text] {
-  display: none
+  display: none;
 }
 
 .li_editMode input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .li_editMode label {
