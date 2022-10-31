@@ -12,18 +12,18 @@
   text-align: right;
 }
 
+@media (max-width:768px) {
+  .info {
+    text-align: center;
+  }
+}
+
 .info__img {
   width: 100%;
 }
 
 .info__more-info {
   font-family: fantasy;
-}
-
-@media (max-width:768px) {
-  .info {
-    text-align: center;
-  }
 }
 
 .main-page {
